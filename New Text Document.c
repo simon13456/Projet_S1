@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("penis");
+	printf("penis ");
 	return 0;
 }
